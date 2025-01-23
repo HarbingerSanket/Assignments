@@ -56,6 +56,7 @@ let fullname=firstName+" "+lastname;
 console.log(fullname);
 
 let bio="I am "+fullname+" my occupation is "+occupation;
+console.log(``)
 console.log(bio);
 
 console.log("----------------------------------------------------")
@@ -83,6 +84,8 @@ console.log("----------------------------------------------------")
 let birthYear=2001;
 let current_year=2025;
 console.log(current_year-birthYear);
+
+
 
 
 
